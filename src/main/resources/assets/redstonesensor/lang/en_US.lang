@@ -1,0 +1,3 @@
+item.redstonesensor:wrench.name=Yet Another Wrench
+tile.redstonesensor:colored_brick.name=Colored Brick
+itemGroup.redstonesensor=Redstone Sensor

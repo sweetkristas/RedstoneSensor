@@ -1,0 +1,21 @@
+[
+{
+    "modid": "RedstoneSensor",
+    "name": "Redstone Sensor",
+    "description": "A simple redstone sensor/block placer",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    authorList: [
+        "KristaDoesMC"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependencies": [
+    ]
+}
+]
